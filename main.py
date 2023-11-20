@@ -1,7 +1,3 @@
-def main():
-    print('My first git program')
+tr = True
+if tr:
     print("a____a")
-
-
-if __name__ == '__main__':
-    main()
